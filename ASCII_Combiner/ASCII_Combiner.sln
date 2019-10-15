@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiCombinerLibrary", "AsciiCombinerLibrary\AsciiCombinerLibrary.csproj", "{EE4F3109-C5F4-4D65-87D1-92878519B641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiCombinerConsoleApp", "AsciiCombinerConsoleApp\AsciiCombinerConsoleApp.csproj", "{F91F9425-191A-469A-B264-47EFF5CCD625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4F3109-C5F4-4D65-87D1-92878519B641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4F3109-C5F4-4D65-87D1-92878519B641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4F3109-C5F4-4D65-87D1-92878519B641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4F3109-C5F4-4D65-87D1-92878519B641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91F9425-191A-469A-B264-47EFF5CCD625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91F9425-191A-469A-B264-47EFF5CCD625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91F9425-191A-469A-B264-47EFF5CCD625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91F9425-191A-469A-B264-47EFF5CCD625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77860FB5-9B40-4872-8BB9-D8F9CD23DF42}
+	EndGlobalSection
+EndGlobal
